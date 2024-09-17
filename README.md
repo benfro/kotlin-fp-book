@@ -1,1 +1,1 @@
-# kotlin-fp-book
+# Doing functional programming with Kotlin
